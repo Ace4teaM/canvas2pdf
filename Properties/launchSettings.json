@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "canvas2pdf": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\devs\\CV\\.devapps\\modele -i web-apps-icon-17.jpg -o output.pdf -r 0,20%,100%,60% -l Landscape"
+    }
+  }
+}
